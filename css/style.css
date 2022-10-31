@@ -193,7 +193,7 @@ p {
 @media (max-width: 1100px) {
   .subtitulo {
     max-width: 5ch;
-    font-size: 8rem;
+    font-size: 7rem;
   }
 }
 @media (max-width: 990px) {
@@ -222,7 +222,7 @@ p {
 }
 @media (max-width: 420px) {
   .subtitulo {
-    font-size: 3.5rem;
+    font-size: 3rem;
   }
 }
 /*formacao*/
